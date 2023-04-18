@@ -1,0 +1,2 @@
+https://code-maze.com/aspnetcore-performance-testing-with-k6/
+https://dev.to/k6/intro-to-testing-asp-net-apis-with-k6-when-unit-tests-meet-load-testing-5b5h
